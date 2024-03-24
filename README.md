@@ -6,10 +6,8 @@ Precision agriculture relies on accurate crop classification to optimize resourc
 
 ## Code Organisation
 Two python notebooks are available :
-* Dataset_creation.ipynb
-This file contains all the functions and codes to process and create the dataset as well as two tests for features and image visualisation
-* Models.ipynb
-This file contains the methods, class and function used to create, tune, train and assess the models
+* Dataset_creation.ipynb : This file contains all the functions and codes to process and create the dataset as well as two tests for features and image visualisation
+* Models.ipynb : This file contains the methods, class and function used to create, tune, train and assess the models
 
 ## Dataset
 Please Refer to Dr Javier Cardona to get the dataset used
